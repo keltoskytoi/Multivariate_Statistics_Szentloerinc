@@ -1,0 +1,9 @@
+ ,FE_spearhead_s,FE_spearhead_l,FE_belt_clasp,FE_belt_buckle_c,FE_buttons,FE_ring,Biconical_pot_knob,Biconical_pot,Shper_bowl_Omph,Spherical_calotte,Bowl_retr_rim
+G6,1,0,1,0,0,0,0,0,0,0,0
+G10,0,0,0,0,1,0,0,0,1,0,0
+G11,1,0,0,0,0,0,0,0,0,0,0
+G12,1,0,0,0,0,1,0,0,0,0,0
+G26,0,1,0,0,0,1,0,0,0,1,1
+G28,1,0,0,1,1,1,0,0,0,0,0
+G31,0,1,1,1,0,0,0,0,0,0,0
+G53,0,0,0,0,0,0,1,1,1,0,0
